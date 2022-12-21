@@ -1,1 +1,16 @@
 # IBS_project
+ABSTRACT:
+
+Person who have asthma need to be treated as soon as possible, which requires early diagnosis. It has proven challenging to develop a model that reliably predicts asthma. As of now, research has produced asthma prediction models with low accuracy and tiny, focused sample sizes. There is a dearth of research that examines a sizable population of Persons using a set of criteria in order to create a model that can be applied in a clinical environment. In this study, we created predictive models to examine a dataset on the health of Person with asthma. These prediction models are created using machine learning classifiers, such as Linear Regression, Decision Tree, Random Forest, KNN, and Naive Bayes approach. The Random Forest Classifier produced the highest prediction accuracy (90.9%) of all the deployed classifiers.The following are the factors: difficulty and sex The three factors most closely associated with asthma are breathing, allergies, and medication. Medical professionals can utilise the analysis of recent research and the model's findings to make predictions about the onset of asthma in Person and to carry out early intervention for the treatment of asthma development in a clinical environment.
+Keywords—allergies; asthma; bronchiolitis; Person; health;
+machine learning; National Survey of Person’s Health;
+predictive models.
+
+
+INTRODUCTION:
+Asthma:
+
+The prevalent chronic lung condition known as asthma is brought on by airway inflammation. Recurrent episodes are brought on by the respiratory tract's narrowed airways. Breathlessness, chest tightness, coughing, and wheezing are typical symptoms that can be fatal. Asthmatic reactions can be brought on by smoke and other air pollutants, allergens, respiratory diseases, environmental factors, physical activity, and gastric reflux. 8,3 percent of American Person had asthma as of 2016, according to the Centers for Disease Control and Prevention. On the basis of data gathered in the clinical context, a precise model that can be applied to determine whether a Person would acquire asthma is required. The dataset used in this article.
+Machine learning:
+
+Many different fields have used machine learning and data science. Data mining has also been used extensively in studies on person's heath. The research has mostly concentrated on old data and tiny sample numbers. The models created by other researchers have not demonstrated good accuracy in asthma prediction. The purpose of this study is to construct an efficient model for finding variables that can be used to forecast the onset of asthma in an individual. For medical practitioners, the models given in this research are simple to utilise. Data mining in a person's health records takes time and varies from doctor to doctor as well as from practise to practise.Medical personnel want to be able to recognise when a patient needs a particular type of care and then deliver that care in a timely manner. Medical professionals can concentrate on early identification of risk factors for the development of asthma in Persons and early intervention with potential preventative care by identifying the characteristics that are most influential to the development of asthma in Persons and using that data to determine the appropriate medical care.
